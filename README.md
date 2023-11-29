@@ -1,10 +1,11 @@
 # Financial inclusion in Africa 
  Find a notebook where I demonstrate the way I created different machine learning models to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide insights into some of the key factors driving individuals’ financial security.
 
+The evaluation metric for this project is Mean Absolute error, where 1 indicates that the individual does have a bank account and 0 indicates that they do not.
+
 
 ---
 
-Click on "Use this Template" (Green button)
 ![alt text](./images/financial_inclusion.png)
 
 
@@ -13,12 +14,10 @@ Add description of:
 A) What needs to be completed to be done with the milestone
 
 B) The definition of done: what will your result look like when you have completed the milestone? (check the provided format)
-![alt text](./images/create_milestone.png)
 
 Now navigate to "issues".
 
 Assign issues to milestones, give it assignees (people who will work on the task). 
-![alt text](./images/tasks_to_mileston.png)
 
 
 

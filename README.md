@@ -4,7 +4,8 @@
 
 ---
 
-!(./images/financial_inclusion.png)
+Click on "Use this Template" (Green button)
+![alt text](./images/financial_inclusion.png)
 
 
 Add description of: 
@@ -12,10 +13,12 @@ Add description of:
 A) What needs to be completed to be done with the milestone
 
 B) The definition of done: what will your result look like when you have completed the milestone? (check the provided format)
+![alt text](./images/create_milestone.png)
 
 Now navigate to "issues".
 
-Assign issues to milestones, give it assignees (people who will work on the task).
+Assign issues to milestones, give it assignees (people who will work on the task). 
+![alt text](./images/tasks_to_mileston.png)
 
 
 

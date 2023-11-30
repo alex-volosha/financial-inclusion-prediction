@@ -1,7 +1,8 @@
 # Financial inclusion in Africa 
  Find a notebook where I demonstrate the way I created different machine learning models to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide insights into some of the key factors driving individuals’ financial security.
 
-The evaluation metric for this project is Mean Absolute error, where 1 indicates that the individual does have a bank account and 0 indicates that they do not.
+The evaluation metric for this project is Mean Absolute error, where 1 indicates that the individual does have a bank account and 0 indicates that they do not. 
+And I also showed trade-off between precision and recall using Precision Recall Curve AUC at the end. 
 
 
 ---
@@ -11,13 +12,13 @@ The evaluation metric for this project is Mean Absolute error, where 1 indicates
 
 Description of project workflow: 
 
-1)Define client's case
-2)Import data and perform exploratory analysis
-3)Feature engineering
-4)Build potential customers' profile
-5)Hypothesis generation
-6)Feature engineering
-7)Training and comparing different machine learning models
+1. Define client's case  
+2. Import data and perform exploratory analysis  
+3. Feature engineering  
+4. Build potential customers' profile  
+5. Hypothesis generation  
+6. Feature engineering  
+7. Training and comparing different machine learning models  
 
 
 

@@ -6,18 +6,18 @@ The evaluation metric for this project is Mean Absolute error, where 1 indicates
 
 ---
 
-![alt text](./images/financial_inclusion.png)
+![alt text](./images/photo-2.png)
 
 
-Add description of: 
+Description of project workflow: 
 
-A) What needs to be completed to be done with the milestone
-
-B) The definition of done: what will your result look like when you have completed the milestone? (check the provided format)
-
-Now navigate to "issues".
-
-Assign issues to milestones, give it assignees (people who will work on the task). 
+1)Define client's case
+2)Import data and perform exploratory analysis
+3)Feature engineering
+4)Build potential customers' profile
+5)Hypothesis generation
+6)Feature engineering
+7)Training and comparing different machine learning models
 
 
 

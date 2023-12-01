@@ -1,7 +1,7 @@
 # Financial inclusion in Africa 
- Find a notebook where I demonstrate the way I created different machine learning models to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide insights into some of the key factors driving individuals’ financial security.
+ In the [notebook](main.ipynb) I demonstrate the way I created different machine learning models to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide insights into some of the key factors driving individuals’ financial security.
 
-The evaluation metric for this project is Mean Absolute error, where 1 indicates that the individual does have a bank account and 0 indicates that they do not. 
+The evaluation metric for this project is the Classification accuracy score, with a value between 0 and 1, the more value is the better is prediction. 
 And I also showed trade-off between precision and recall using Precision Recall Curve AUC at the end. 
 
 
